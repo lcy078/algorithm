@@ -2,11 +2,6 @@ package algorithm
 
 import "fmt"
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 // 地址：https://leetcode.cn/problems/linked-list-cycle/
 // 141. 环形链表
 // 给你一个链表的头节点 head ，判断链表中是否有环。
